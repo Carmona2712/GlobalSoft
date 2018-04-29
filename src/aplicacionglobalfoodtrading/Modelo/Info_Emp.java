@@ -5,10 +5,7 @@
  */
 package aplicacionglobalfoodtrading.Modelo;
 
-/**
- *
- * @author Ricardo Carmona
- */
+
 public class Info_Emp {
     private String NIT;
     private String Nombre;
